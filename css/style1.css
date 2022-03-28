@@ -1,0 +1,39 @@
+
+.t {
+    background-color: rgb(30, 255, 0);
+    width: 800px;
+    z-index: 10000;
+    
+}
+
+.f {
+    width: 400px;  
+    float: left;
+    height: auto;
+    background-color: rgb(126, 15, 190);
+    
+}
+.s {
+    width: 390px;
+    height: auto;
+    float: left;
+    margin-left: 10px;
+    background-color: rgba(243, 159, 3, 0.795);
+}
+.r {
+    position: relative;
+    left: 10%;
+    width: 90%;
+}
+.button {
+    bottom: 10%;
+    right: 10%;
+    position: fixed;
+    background-color: rgb(202, 148, 0);
+}
+.h {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
